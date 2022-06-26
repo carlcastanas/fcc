@@ -340,15 +340,15 @@ nav ul li.active a {
 	text-decoration: none
 }
 nav ul li.nav-btn a {
-	color: #1d1d1d;
+	color: #99aab5;
 	padding: 10px 32px;
-	background: 	#191970;
+	background: #191970;
 	-webkit-border-radius: 4px;
 	border-radius: 4px;
 }
 nav ul li.nav-btn a:hover {
 	background: #f0931e;
-	color: #1d1d1d
+	color: #1d1d1d;
 }
 header.fixed {
 	position: fixed;
